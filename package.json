@@ -22,5 +22,13 @@
     "headless"
   ],
   "author": "Blockshot",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blockshot12/drupal-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Blockshot12/drupal-app/issues"
+  },
+  "homepage": "https://github.com/Blockshot12/drupal-app#readme"
 }
