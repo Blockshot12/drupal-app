@@ -20,7 +20,7 @@ $ npm start
 
 <h3>Sending Feedback</h3>
 
-<p>We are always open to <a href="https://github.com/">your feedback</a>.
+<p>Here you can leave <a href="https://github.com/Blockshot12/drupal-app/issues">your feedback</a>.
 
 <h3>Folder Structure</h3>
 
