@@ -1,6 +1,6 @@
 <h1>React + Drupal 8 API</h1>
 
-This project is a simple test for a React App with Drupal 8 API. The Drupal backend has to be build separately from this repository. There is a simple JSON file included of the Drupal API output inside <b>./src/Data/tickets.json</b>.
+This project is a test for a React App with a Drupal 8 API. The Drupal backend has to be build separately from this repository. There is a simple JSON file included of the Drupal API output inside <b>./src/Data/tickets.json</b>.
 
 <h2>Dependencies</h2>
 <ul>
