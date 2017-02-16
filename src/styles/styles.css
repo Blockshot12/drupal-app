@@ -1,0 +1,71 @@
+body {
+	background-color: #eee;
+}
+
+.wrapper {
+	width: 100%;
+}
+
+.header {
+	margin: 0;
+	padding: 20px;
+	background-color: #444;
+	color: #ddd;
+	text-align: center;
+}
+
+.footer {
+	text-align: center;
+}
+
+.ticket {
+	width: 100%;
+	max-width: 440px;
+	margin: 20px auto;
+}
+
+.ticket .ticket__list {
+	padding: 0;
+	list-style-type: none;
+}
+.ticket .ticket__item {
+	margin-bottom: 20px;
+}
+
+.ticket .ticket__title {
+	border-bottom: 1px solid #999;
+	font-size: 2.4rem;
+}
+.ticket .ticket__date {
+	color: #777;
+	font-size: 1.2rem;
+	font-style: italic;
+}
+.ticket .ticket__details {
+	color: #999;
+	font-size: 1.5rem;
+}
+.ticket .ticket__details--status {
+	color: #333;
+	font-weight: bold;
+}
+
+.btn {
+	border-radius: 0;
+}
+.btn--blue, .btn--blue:focus {
+	background-color: #337ab7;
+	color: white;
+	-webkit-box-shadow: 0 0 0 rgba(0,0,0,0);
+					box-shadow: 0 0 0 rgba(0,0,0,0);
+	-webkit-transition: all .2s ease;
+					transition: all .2s ease;
+}
+.btn--blue:hover {
+	background-color: #347ab8;
+	color: white;
+	-webkit-transform: translateY(-1px);
+					transform: translateY(-1px);
+	-webkit-box-shadow: 1px 1px 4px rgba(0,0,0,.7);
+					box-shadow: 1px 1px 4px rgba(0,0,0,.7);
+}

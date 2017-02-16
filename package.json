@@ -1,0 +1,26 @@
+{
+  "name": "drupal-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "description": "A test with React and Drupal 8 (headless).",
+  "main": "index.js",
+  "keywords": [
+    "drupal8",
+    "react",
+    "headless"
+  ],
+  "author": "Blockshot",
+  "license": "ISC"
+}
