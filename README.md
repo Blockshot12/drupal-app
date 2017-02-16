@@ -10,21 +10,21 @@ This project is a simple test for a React App with Drupal 8 API. The Drupal back
 
 <h2>Installation</h2>
 <p>Use the command line to install the app.</p>
-<ol>
-  <li>$ git</li>
-  <li>$ cd drupal-app</li>
-  <li>$ npm install</li>
-  <li>$ npm start</li>
-  <li>Open [http://localhost:3000](http://localhost:3000) in your browser.</li>
-</ol>
+```
+$ git clone https://github.com/Blockshot12/drupal-app
+$ cd drupal-app
+$ npm install
+$ npm start
+```
+<p>Open <a href="http://localhost:3000">http://localhost:3000</a> in your browser.</p>
 
 <h3>Sending Feedback</h3>
 
-We are always open to [your feedback](https://github.com/).
+<p>We are always open to <a href="https://github.com/">your feedback</a>.
 
 <h3>Folder Structure</h3>
 
-After creation, your project should look like this:
+<p>After creation, your project should look like this:</p>
 
 ```
 drupal-app/
